@@ -6,9 +6,9 @@ I love solving messy data problems, building dashboards, and experimenting with 
 ---
 
 ## 🔧 Toolbox
-- 🐍 Python (Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, PyTorch)  
-- 📊 Power BI, Streamlit, Seaborn  
-- 🤖 NLP, BERT, Transformers  
+- 🐍 Python (Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, PyTorch, Seaborn, Streamlit)  
+- 📊 Power BI, Qlik Sense, Tableau 
+- 🤖 Large Language Modelling, Natural Language Processing
 - ⚙️ Automation (Tkinter GUIs, APIs, workflow scripts)  
 - ☁️ Learning MLOps (FastAPI, Docker, Cloud)  
 
@@ -43,4 +43,4 @@ I love solving messy data problems, building dashboards, and experimenting with 
 - [Kaggle](#)  
 - [Medium (coming soon)](#)  
 
-💡 Always curious. Always building. Always learning.  
+💡 Always curious. Always building. Always learning.
